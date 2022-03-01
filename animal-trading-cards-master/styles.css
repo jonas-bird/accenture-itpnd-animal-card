@@ -18,16 +18,20 @@
 
 p {
 	font-family: Arial, Helvetica, sans-serif;
+	margin: 9px;
+	font-size: .8em;
 }
 
 h3 {
 	margin: 6px;
 	font-family: Times, "Times New Roman", Georgia, serif;
 	text-align: center;
+	font-size: 1em;
 }
 .card-text {
 	border: 1px dotted gray;
 	padding: 6px;
+
 }
 .quick-fact {
 	font-style: italic;
@@ -35,14 +39,22 @@ h3 {
 
 .fact-labels {
 	font-weight: bold;
+	font-size: 0.85em;
 }
 
 ul {
 	list-style-type: none;
-	margin-left: 0px;
+	margin: 9px;
 	padding-left: 0px;
 }
 
+li {
+	font-size: 0.8em;
+}
+
+img {
+	width: 300px;
+}
 .card.blackbear {
 	color: lightgray;
 	background-color: black;
@@ -76,12 +88,12 @@ ul {
 .card.brownbear
 {
 	color: white;
-	background-color: brown;
+	background-color: #311432;
 	border-color: red;
 
 }
 
-.card.pandabear {
+.card.panda {
 	color: black;
 	background-color: red;
 	border-color: white;
