@@ -9,7 +9,7 @@
 
 .card {
 	width: 300px;
-	border: 3px solid black;
+	border: 3px solid #333;
 	padding: 12px;
 	margin: 9px;
 	box-shadow: -5px -3px 2px gray;
@@ -22,11 +22,11 @@ p {
 	font-size: .8em;
 }
 
-h3 {
+.card-name {
 	margin: 6px;
 	font-family: Times, "Times New Roman", Georgia, serif;
 	text-align: center;
-	font-size: 1em;
+	font-size: 1.2em;
 }
 .card-text {
 	border: 1px dotted gray;
@@ -39,7 +39,7 @@ h3 {
 
 .fact-labels {
 	font-weight: bold;
-	font-size: 0.85em;
+	font-size: 1em;
 }
 
 ul {
@@ -56,51 +56,43 @@ img {
 	width: 300px;
 }
 .card.blackbear {
-	color: lightgray;
-	background-color: black;
-	border-color: red;
+	color: black;
+	background-color: #ccf;
 }
 
 .card.sunbear {
 	color: black;
-	background-color: gold;
-	border-color: green;
+	background-color: #ffc;
 }
 
 .card.moonbear {
 	color: black;
-	background-color: silver;
-	border-color: blue;
+	background-color: #f99;
 }
 
 .card.slothbear {
 	color: black;
-	background-color: green;
-	border-color: red;
+	background-color: #ccc;
 }
 
 .card.andeanbear {
-	color: white;
-	background-color: blue;
-	border-color: gray;
+	color: black;
+	background-color: #fff;
 }
 
 .card.brownbear
 {
-	color: white;
-	background-color: #311432;
-	border-color: red;
+	color: black;
+	background-color: #6ff;
 
 }
 
 .card.panda {
 	color: black;
-	background-color: red;
-	border-color: white;
+	background-color: #fc3;
 }
 
 .card.polarbear {
-	color: darkgray;
-	background-color: white;
-	border-color: black;
+	color: black;
+	background-color: #cf9;
 }
