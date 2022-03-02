@@ -1,0 +1,75 @@
+1. Sun Bear:
+   + background color
+   + text color
+   + border color
+   + content:
+     - scientific name:
+     - Average lifespan:
+     - habitat:
+     - description
+2. Moon Bear:
+   + background color
+   + text color
+   + border color
+   + content:
+     - scientific name:
+     - Average lifespan:
+     - habitat:
+     - description
+3. Sloth Bear:
+   + background color
+   + text color
+   + border color
+   + content:
+     - scientific name:
+     - Average lifespan:
+     - habitat:
+     - description
+4. Spectacle Bear:
+   + background color
+   + text color
+   + border color
+   + content:
+     - scientific name:
+     - Average lifespan:
+     - habitat:
+     - description
+5. American Black Bear
+   + image: blackBear.jpg
+     - original name: american-black-bear-g4ebb8a9a1_640.jpg
+   + background color
+   + text color
+   + border color
+   + content:
+     - scientific name: Ursus americanus
+     - Average lifespan: 25 years   *will use weight instead of lifespan*
+     - average weight: 125-600lbs
+     - habitat: forests, wooded mountains, and swamps in Canada, the United States and even parts of Mexico
+     - description: The American black bear is the most widespread bear species in North America. Despite the name they can be found in other colors such as reddish brown, cream, and even a gray blue!
+6. Brown Bear:
+   + background color
+   + text color
+   + border color
+   + content:
+     - scientific name:
+     - Average lifespan:
+     - habitat:
+     - description
+7. Panda Bear:
+   + background color
+   + text color
+   + border color
+   + content:
+     - scientific name:
+     - Average lifespan:
+     - habitat:
+     - description
+8. Polar Bear:
+   + background color
+   + text color
+   + border color
+   + content:
+     - scientific name:
+     - Average lifespan:
+     - habitat:
+     - description

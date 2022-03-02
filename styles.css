@@ -1,0 +1,98 @@
+/* add your CSS here */
+
+.outer-container {
+	display: flex;
+	justify-content: space-between;
+	align-content: space-around;
+	flex-wrap: wrap;
+}
+
+.card {
+	width: 300px;
+	border: 3px solid #333;
+	padding: 12px;
+	margin: 9px;
+	box-shadow: -5px -3px 2px gray;
+	flex: 0 0 auto;
+}
+
+p {
+	font-family: Arial, Helvetica, sans-serif;
+	margin: 9px;
+	font-size: .8em;
+}
+
+.card-name {
+	margin: 6px;
+	font-family: Times, "Times New Roman", Georgia, serif;
+	text-align: center;
+	font-size: 1.2em;
+}
+.card-text {
+	border: 1px dotted gray;
+	padding: 6px;
+
+}
+.quick-fact {
+	font-style: italic;
+}
+
+.fact-labels {
+	font-weight: bold;
+	font-size: 1em;
+}
+
+ul {
+	list-style-type: none;
+	margin: 9px;
+	padding-left: 0px;
+}
+
+li {
+	font-size: 0.8em;
+}
+
+img {
+	width: 300px;
+}
+.card.blackbear {
+	color: black;
+	background-color: #ccf;
+}
+
+.card.sunbear {
+	color: black;
+	background-color: #ff9;
+}
+
+.card.moonbear {
+	color: black;
+	background-color: #f99;
+}
+
+.card.slothbear {
+	color: black;
+	background-color: #ccc;
+}
+
+.card.andeanbear {
+	color: black;
+	background-color: #fff;
+}
+
+.card.brownbear
+{
+	color: black;
+	background-color: #9ff;
+
+}
+
+.card.panda {
+	color: black;
+	background-color: #fc3;
+}
+
+.card.polarbear {
+	color: black;
+	background-color: #cf9;
+}
